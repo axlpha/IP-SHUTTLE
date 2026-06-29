@@ -16,12 +16,12 @@ socks5://localhost:43858
 
 ## Features
 
-- **No logs** we don't track or store anything.
-- **Residential IPs** fresh, rotated from 50+ countries.
-- **$2/GB max** custom plans for bulk buyers are cheaper.
-- **Free plan** 1GB/month, no email or credit card required.
-- **SOCKS5** works with any browser or tool.
-- **Cross‑platform** – Windows, macOS, Linux (Java 26+).
+- **No logs** - we don't track or store anything.
+- **Residential IPs** - fresh, rotated from 50+ countries.
+- **$2/GB max** - custom plans for bulk buyers are cheaper.
+- **Free plan** - 1GB/month, no email or credit card required.
+- **SOCKS5** - works with any browser or tool.
+- **Cross‑platform** - Windows, macOS, Linux (Java 26+).
 
 ## Download
 
