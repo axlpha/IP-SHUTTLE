@@ -5,7 +5,7 @@
 
 ```bash
 # Download the JAR
-wget https://github.com/axlpha/ipshuttle/releases/latest/ipshuttle.jar
+wget https://github.com/axlpha/IP-SHUTTLE/releases/download/1.0/IPSHUTTLE.jar
 
 # Run it
 java -jar ipshuttle.jar
@@ -25,8 +25,8 @@ socks5://localhost:43858
 
 ## Download
 
-- [Windows Launcher (bundled Java)](https://github.com/axlpha/ipshuttle/releases/latest/ipshuttle.jar)
-- [Standalone JAR](https://github.com/axlpha/ipshuttle/releases/latest/ipshuttle.zip)
+- [Windows Launcher (bundled Java)](https://github.com/axlpha/IP-SHUTTLE/releases/download/1.0/IPSHUTTLE.jar)
+- [Standalone JAR](https://github.com/axlpha/IP-SHUTTLE/releases/download/1.0/IPSHUTTLE.zip)
 
 ## Usage
 
