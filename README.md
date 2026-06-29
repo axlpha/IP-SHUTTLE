@@ -1,8 +1,6 @@
 ```markdown
 # IP Shuttle
 
-Residential SOCKS5 proxies – no logs, no limits.
-
 ## Quick Start
 
 ```bash
